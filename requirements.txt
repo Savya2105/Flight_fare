@@ -1,0 +1,32 @@
+# Flight Fare Prediction - Requirements
+# Core data manipulation and analysis
+pandas>=1.3.0
+numpy>=1.21.0
+
+# Visualization libraries
+matplotlib>=3.4.0
+seaborn>=0.11.0
+plotly>=5.0.0
+
+# Scientific computing and statistics
+scipy>=1.7.0
+
+# Machine Learning
+scikit-learn>=1.0.0
+xgboost>=1.5.0
+
+# Jupyter environment
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Optional: For better notebook experience
+jupyterlab>=3.0.0
+
+# Optional: For data validation and profiling
+# pandas-profiling>=3.0.0
+# great-expectations>=0.13.0
+
+# Development and testing (optional)
+# pytest>=6.0.0
+# black>=21.0.0
+# flake8>=3.9.0
